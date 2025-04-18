@@ -1,3 +1,5 @@
 __pycache__
-new-data
-test-images
+new-data/
+test-images/
+recipe.py
+no-image.png
