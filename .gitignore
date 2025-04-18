@@ -1,0 +1,12 @@
+__pycache__
+detected
+models
+new-data
+test-images
+uploads
+captured_20250418-175741.jpg
+cleaned_recipes.csv
+Food Ingredients and Recipe Dataset with Image Name Mapping.csv
+no-image.png
+recipe.py
+recipes_formatted.txt
